@@ -1,0 +1,16 @@
+h2[title=baslik1]{
+    color: rgb(255, 0, 0);
+}
+
+p[title=paragraf1]{
+    color: rgb(132, 0, 255);
+    text-align: justify;
+}
+
+a[target="_blank"]{
+    color: rgb(30, 210, 150);
+}
+
+input[type="text"]{
+    background-color: darkmagenta;
+}
